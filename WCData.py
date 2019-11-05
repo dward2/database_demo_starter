@@ -1,3 +1,6 @@
+# WCData.py
+# David Ward, November 2019
+
 class WCData:
     filename = "new_wc_data.csv"
 
