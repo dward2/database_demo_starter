@@ -1,0 +1,4 @@
+pymodm
+dnspython
+pytest
+pytest-pep8
